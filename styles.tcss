@@ -1,0 +1,5 @@
+DataTable {
+    border: solid green;
+    scrollbar-size-vertical: 1;
+    /* background: cyan; */
+}
